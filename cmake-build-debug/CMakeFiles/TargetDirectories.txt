@@ -1,0 +1,3 @@
+D:/sem 4/оси/OperatingSystems/cmake-build-debug/CMakeFiles/OperatingSystems.dir
+D:/sem 4/оси/OperatingSystems/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/sem 4/оси/OperatingSystems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
