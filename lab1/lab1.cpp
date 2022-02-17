@@ -5,7 +5,7 @@
 using namespace std;
 
 struct mystruct {
-    volatile long* array;
+    long* array;
     int size;
 };
 
@@ -26,12 +26,12 @@ int main() {
     DWORD IDThread;
     UINT IDThread1;
 
-    object.size = 100;
+    object.size;
     cout << "Enter array size:" << "\n";
     cin >> object.size;
     cout << "\n";
 
-    volatile long* array = new long[object.size];
+    long* array = new long[object.size];
     cout << "Array:" << "\n";
 
     for (int i = 0; i < object.size; i++) {
