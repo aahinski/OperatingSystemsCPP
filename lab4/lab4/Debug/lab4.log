@@ -1,0 +1,5 @@
+﻿  Administrator.cpp
+C:\Users\nordl\source\repos\lab4\lab4\Administrator.cpp(39,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nordl\source\repos\lab4\lab4\Administrator.cpp(18,12): warning C4101: events: неиспользованная локальная переменная
+C:\Users\nordl\source\repos\lab4\lab4\Administrator.cpp(27,10): warning C4101: p: неиспользованная локальная переменная
+  lab4.vcxproj -> C:\Users\nordl\source\repos\lab4\Debug\lab4.exe
