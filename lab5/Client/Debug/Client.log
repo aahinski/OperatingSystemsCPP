@@ -1,0 +1,6 @@
+﻿  Client.cpp
+C:\Users\nordl\source\repos\lab5\Client\Client.cpp(24,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nordl\source\repos\lab5\Client\Client.cpp(28,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nordl\source\repos\lab5\Client\Client.cpp(32,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nordl\source\repos\lab5\Client\Client.cpp(31,11): warning C4101: sz: неиспользованная локальная переменная
+  Client.vcxproj -> C:\Users\nordl\source\repos\lab5\Debug\Client.exe

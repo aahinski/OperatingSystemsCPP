@@ -1,0 +1,3 @@
+﻿  Server.cpp
+C:\Users\nordl\source\repos\lab5\lab5\Server.cpp(45,11): warning C4101: sz: неиспользованная локальная переменная
+  lab5.vcxproj -> C:\Users\nordl\source\repos\lab5\Debug\lab5.exe
