@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\nordl\source\repos\lab6\Clienr\Client.cpp(81,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nordl\source\repos\lab6\Clienr\Client.cpp(85,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Clienr.vcxproj -> C:\Users\nordl\source\repos\lab6\Debug\Client.exe
